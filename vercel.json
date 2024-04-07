@@ -1,0 +1,5 @@
+{
+	"buildCommand": "bun migrations && bun run build",
+	"cleanUrls": true,
+	"$schema": "https://openapi.vercel.sh/vercel.json"
+}
